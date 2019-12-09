@@ -1,7 +1,7 @@
 # Face Detect Landmarks 200 Points
 
 ## About
-本项目使用dlib人脸特征识别，在原来的68点的基础上扩展到200点
+本项目使用[dlib](http://dlib.net/)人脸特征识别，在原来的68点的基础上扩展到200点
 
 ### Features
 + 200个特征点，覆盖全脸、眼部、眉毛、嘴及嘴唇、鼻子包含轮廓及鼻梁骨架
@@ -27,7 +27,7 @@
 #face detect landmarks 200 points
 
 ## About
-base on dlib's face landmarks detecting from 68 exntend to 200 points
+base on [dlib](http://dlib.net/)'s face landmarks detecting from 68 exntend to 200 points
 
 ## Getting start
 Actually, in this project already provide predictor model trained with
